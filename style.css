@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(0, 140, 255);
+}
+div.body{
+    
+    background-color: black;
+    width: 200px;
+    height: 356px;
+    border-radius: 9px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    
+}
+div.screen{
+    position: relative;
+    background-color: white;
+    width: 180px;
+    height: 320px;
+    border-radius: 11px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    text-justify: auto;
+}
+p.title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 550;
+}
+input.content{
+    width: 30%;
+    border: none;
+    text-align: center;
+}
+input.special{
+    width: 30%;
+    border-radius: 9px;
+    text-align: center;
+    width: 97%;
+
+}
+.values{
+    font-weight: 25;
+    font-size: 16px;
+    text-align: center;
+}
