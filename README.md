@@ -1,1 +1,1 @@
-# eazy_math
+# easy_math
